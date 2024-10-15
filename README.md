@@ -31,6 +31,11 @@ Working Of Our Project
 
 https://github.com/user-attachments/assets/4da4eaaf-419c-40c7-b370-4b8dc7a34e7e
 
+
+https://github.com/user-attachments/assets/6dd85396-c598-4a87-99b8-6cc105c91249
+
+
+
 Conclusion
 ----
 Users can easily enter a note title and add content based on their preferences, with the ability to save, edit, and delete notes seamlessly. The inclusion of a reminder feature ensures that important tasks are never missed, while the option to add and capture images enriches the overall functionality. These features combine to provide an efficient and organized way to manage notes and stay on top of important reminders.
